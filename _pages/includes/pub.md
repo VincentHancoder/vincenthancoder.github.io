@@ -1,7 +1,7 @@
 # 📝 Publications 
 ## 🎙 Audio Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/baton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/baton.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BATON: Aligning Text-to-Audio Model with Human Preference Feedback]([https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf](https://arxiv.org/abs/2402.00744)) \\
