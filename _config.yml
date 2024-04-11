@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Huan Liao (任意)"
+description              : "Postgraduate Student in Tsinghua University. Focusing on text-to-audio and video-to-audio generation."
+repository               : "Hannieliao/hannieliao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,9 +22,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : "images/android-chrome-512x512.jpeg"
   bio              : "TikTok"
-  location         : "Singapore"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
