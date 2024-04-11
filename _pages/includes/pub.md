@@ -5,6 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [BATON: Aligning Text-to-Audio Model with Human Preference Feedback]([https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf](https://arxiv.org/abs/2402.00744)) \\
+
 **Huan Liao**, Haonan Han, Kai Yang, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li
 
 [**Project**](https://baton2024.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
