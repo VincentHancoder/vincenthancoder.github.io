@@ -8,7 +8,7 @@
 
 **Huan Liao**, Haonan Han, Kai Yang, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li
 
-[**Project**](https://baton2024.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+<!-- [**Project**](https://baton2024.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
 - **The first text-to-audio (TTA) system finetuned from human preference feedback.**
 - Addressed the audio event semantic omission and temporal disarray with a weighted preference strategy
