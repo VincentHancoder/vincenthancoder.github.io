@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huan Liao (廖欢)"
-description              : #"Postgraduate Student in Tsinghua University. Focusing on text-to-audio and video-to-audio generation."
+description              : "Postgraduate Student in Tsinghua University."
 repository               : "Hannieliao/hannieliao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ google_analytics_id      : G-SWFCX99KQZ
 # Site Author
 author:
   name             : "Huan Liao (廖欢)"
-  avatar           : "images/android-chrome-512x512.jpeg"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
