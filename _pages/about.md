@@ -19,6 +19,4 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-{% include_relative includes/access_stats.md %}
-
 Thanks so much for RayeRen's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
