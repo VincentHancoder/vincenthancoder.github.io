@@ -19,6 +19,6 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=pGgE1hMket84twOks8hu76lWjl5ORukOJRPcVR9nRBI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=a_pBFm5ryIE_oEF30RpDE0V7_5FjjszEy2fUpnff9Kw'></script>
 
 Thanks so much for RayeRen's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
