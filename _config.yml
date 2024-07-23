@@ -21,7 +21,7 @@ google_analytics_id      :
 
 # Site Author
 author:
-  name             : "Haonan Han (韩昊男)"
+  name             : "Haonan Han"
   avatar           : "images/avatar.jpg"
   bio              : "Tsinghua University"
   location         : "Shenzhen, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Hannieliao"
+  github           : "VincentHancoder"
   google_plus      :
   keybase          :
   instagram        :
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "北大第一深情"
   tumblr           :
   twitter          : 
   vine             :
