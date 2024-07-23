@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huan Liao (廖欢)"
-description              : "Postgraduate Student in Tsinghua University."
-repository               : "Hannieliao/hannieliao.github.io"
+title                    : "Haonan Han (韩昊男)"
+description              : "PhD Candidate in Tsinghua University."
+repository               : "VincentHancoder/vincenthancoder.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : 
 
 # # SEO Related
 # google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,14 +21,14 @@ google_analytics_id      : G-SWFCX99KQZ
 
 # Site Author
 author:
-  name             : "Huan Liao (廖欢)"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Haonan Han (韩昊男)"
+  avatar           : "images/avatar.jpg"
   bio              : "Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "liaoh22@mails.tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=vLZp870AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "hhn22@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
