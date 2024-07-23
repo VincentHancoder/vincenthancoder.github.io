@@ -1,1 +1,2 @@
-<a href="https://clustrmaps.com/site/1c0l0"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=98_BFEoYzSdAzuQlix1byDK2Noo--bfKmAca799xwpE&cl=ffffff" /></a>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
