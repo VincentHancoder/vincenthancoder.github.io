@@ -1,15 +1,10 @@
 
 # 📖 Educations
-- *2022.09 - 2025.06*, Master, Tsinghua University, Beijing.
-<!-- - *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou. -->
-<!-- - *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.-->
-
-<!-- # 💬 Invited Talksk-->
+- *2022.09 - Now*, PhD, Tsinghua University, Shenzhen.
+- *2018.09 - 2022.06*, Bachelor, Harbin Institute of Technology, Harbin.
+- *2015.09 - 2018.06*, High School Student, Harbin No. 3 Middle School, Harbin.
 
 # 💻 Internships
-- *2023.05 - 2024.03*, Huawei 2012 lab, Shenzhen.
-<!-- - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou. -->
-
-# 🎵 Music Backgroud
-- Guzheng (Chinese instrumental exam-Grade 9)
-- Vice president of the 100-member music club
+- *2024.07 - Now*, Kwai Tech., Beijing.
+- *2024.03 - 2024.06*, Tencent CSIG, Shenzhen.
+- *2023.10 - 2024.02*, Huawei Cloud, Shenzhen.
