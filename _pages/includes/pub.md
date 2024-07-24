@@ -12,3 +12,18 @@ Huan Liao<sup>★</sup>, **Haonan Han**<sup>★</sup>, Kai Yang, Tianjiao Du, Ru
 </div>
 </div>
 
+
+
+
+## 🔍 Dataset
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/SSGD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SSGD: A smartphone screen glass dataset for defect detection** \\
+**Haonan Han**<sup>★</sup>, Rui Yang<sup>★</sup>, Shuyan Li, Runze Hu, Xiu Li<sup>†</sup>
+
+[**[Project]**](https://github.com/VincentHancoder/SSGD) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Paper]**](https://arxiv.org/pdf/2303.06673.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
