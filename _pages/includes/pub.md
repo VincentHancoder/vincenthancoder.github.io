@@ -2,6 +2,18 @@
 
 ## 🪄 3D Generation
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/mambatalk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models** \\
+Zunnan Xu<sup>★</sup>, Yukang Lin<sup>★</sup>, **Haonan Han**<sup>★</sup>, Sicheng Yang, Ronghui Li, Yachao Zhang<sup>†</sup>, Xiu Li<sup>†</sup>
+
+[**[Paper]**](https://arxiv.org/pdf/2403.09471) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/consistent123.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
