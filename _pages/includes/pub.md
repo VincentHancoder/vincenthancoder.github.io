@@ -1,4 +1,20 @@
 # 📝 Publications 
+
+## 🪄 3D Generation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/consistent123.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors** \\
+Yukang Lin<sup>★</sup>, **Haonan Han**<sup>★</sup>, Chaoqun Gong, Zunnan Xu, Yachao Zhang, Xiu Li<sup>†</sup>
+
+[**[Project]**](https://Consistent123.github.io) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Paper]**](https://arxiv.org/pdf/2309.17261) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+
+
 ## 🎙 Audio Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/baton.png' alt="sym" width="100%"></div></div>
