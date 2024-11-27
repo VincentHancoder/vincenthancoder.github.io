@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.11*: I join **Microsoft Research Asia** [VCG](https://www.microsoft.com/en-us/research/group/visual-computing/?locale=zh-cn) as a research intern.
 - *2024.09*: One Paper of holistic gesture synthesis is accepted by **NeurIPS 2024**.
 - *2024.07*: I join **Kwai Tech.** as a research intern.
 - *2024.07*: One Paper of consistent 3D asset generation is accepted by **ACMMM 2024**.
