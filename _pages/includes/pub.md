@@ -1,5 +1,21 @@
 # 📝 Publications 
 
+## 🚴‍♂️ Motion Generation
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/AToM_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward** \\
+**Haonan Han**<sup>★</sup>, Xiangzuo Wu<sup>★</sup>, Huan Liao<sup>★</sup>, Zunnan Xu, Zhongyuan Hu, Ronghui Li, Yachao Zhang<sup>†</sup>, Xiu Li<sup>†</sup>
+
+[**[Project]**](https://atom-motion.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Paper]**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+
 ## 🪄 3D Generation
 
 
@@ -11,6 +27,7 @@
 
 [**[Project]**](https://reparo2024.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Paper]**](https://arxiv.org/pdf/2405.18525) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/VincentHancoder/REPARO?tab=readme-ov-file) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
 
