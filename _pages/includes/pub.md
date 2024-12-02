@@ -10,8 +10,8 @@
 **Haonan Han**<sup>★</sup>, Xiangzuo Wu<sup>★</sup>, Huan Liao<sup>★</sup>, Zunnan Xu, Zhongyuan Hu, Ronghui Li, Yachao Zhang<sup>†</sup>, Xiu Li<sup>†</sup>
 
 [**[Project]**](https://atom-motion.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Paper]**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**[Code]**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Paper]**](https://arxiv.org/pdf/2411.18654) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/VincentHancoder/AToM) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
 
