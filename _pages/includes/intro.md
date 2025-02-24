@@ -3,6 +3,6 @@ I am currently a third-year PhD student at Tsinghua University as a member of [I
 
 Previously, I received my B.Eng. Degree from Harbin Institute of Technology in 2022.
 
-I am now working on **3D generation**, **audio generation** and **multimodal large language model (MLLM)** research. If you would like to have an academic discussion or cooperation, please feel free to email me at [hhn22@mails.tsinghua.edu.cn](mailto:hhn22@mails.tsinghua.edu.cn).
+I am now working on **world model**, **multimodal generation**, and **RLHF/RLAIF** research. If you would like to have an academic discussion or cooperation, please feel free to email me at [hhn22@mails.tsinghua.edu.cn](mailto:hhn22@mails.tsinghua.edu.cn).
 
 
