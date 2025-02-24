@@ -5,6 +5,7 @@
 - *2015.09 - 2018.06*, High School Student, Harbin No.3 High School, Harbin.
 
 # 💻 Internships
-- *2024.07 - Now*, Kwai Tech., Beijing.
+- *2024.11 - now*, MSRA, Beijing.
+- *2024.07 - 2024.08*, Kwai Tech., Beijing.
 - *2024.03 - 2024.06*, Tencent CSIG, Shenzhen.
 - *2023.10 - 2024.02*, Huawei Cloud, Shenzhen.
