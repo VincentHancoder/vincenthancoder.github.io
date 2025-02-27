@@ -3,7 +3,7 @@
 ## 🚴‍♂️ Motion Generation
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/AToM_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AToM_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward** \\
