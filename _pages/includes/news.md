@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: One Paper of a two-stage compositional 3D generation is accepted by **ICCV 2025**.
 - *2025.02*: One Paper of aligning text-to-motion model with RLAIF is accepted by **CVPR 2025**.
 - *2024.11*: I join **Microsoft Research Asia** [VCG](https://www.microsoft.com/en-us/research/group/visual-computing/?locale=zh-cn) as a research intern.
 - *2024.09*: One Paper of holistic gesture synthesis is accepted by **NeurIPS 2024**.
