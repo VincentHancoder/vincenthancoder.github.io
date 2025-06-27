@@ -19,7 +19,7 @@
 ## 🪄 3D Generation
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/reparo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/reparo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **REPARO: Compositional 3D Assets Generation with Differentiable 3D Layout Alignment** \\
